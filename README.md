@@ -1,29 +1,13 @@
 # The Monster Slayer
 
-## Project setup
-```
-npm install
-```
+Simple game developed using Vue js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Initally player and monster will have full health 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Player is capable of 
+  - attack
+  - special attack
+  - heal
+  - give up
+  
+ Link: https://bipinmhzn.github.io/monsterslayer/dist/
