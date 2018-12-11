@@ -10,4 +10,4 @@ Player is capable of
   - heal
   - give up
   
- Link: https://bipinmhzn.github.io/monsterslayer/dist/
+ Link: https://bipinmhzn.github.io/MonsterSlayer/dist/
